@@ -1,2 +1,2 @@
-GOOGLECODEJAM2011
+GOOGLECODEJAM
 =================
